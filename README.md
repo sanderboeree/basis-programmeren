@@ -1,0 +1,3 @@
+# basis-programmeren cd ..
+ls
+
